@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to HCI@WVU
 
-You can use the [editor on GitHub](https://github.com/wvuhci/wvuhci.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the Human Computer Interaction community at West Virginia University.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Where do we meet?
 
-### Markdown
+We are an open space for learning and innovation located at AERB 309. You can bring your own project or join to one existing project.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Who can attend?
 
-```markdown
-Syntax highlighted code block
+Anyone is welcome, there are students from High School to Ph.D. we only need from you your compromise to create amazing projects.
 
-# Header 1
-## Header 2
-### Header 3
+### When do we meet?
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wvuhci/wvuhci.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+We have our stand-up every every Thursday at noon, feel free to come, grab some pizza and interact with other appasionated members.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Join our slaco channel [Slack channel](http://crowdactivism.slack.com).
